@@ -9,7 +9,7 @@ import io.netty.channel.socket.nio.NioServerSocketChannel;
 public class TestServer {
 
     public static void main(String[] args) throws InterruptedException {
-
+        //注释测试一下
         EventLoopGroup bossgroup = new NioEventLoopGroup();
         EventLoopGroup workergroup = new NioEventLoopGroup();
         try {
