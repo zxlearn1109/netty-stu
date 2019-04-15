@@ -6,6 +6,6 @@
 .idea
 *.iml
 *.xml
-
+.gradle
 out
 gen
